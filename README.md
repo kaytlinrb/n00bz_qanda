@@ -23,9 +23,9 @@ You will need the following things properly installed on your computer.
 * `ember serve`
 * Visit your app at [http://localhost:4200](http://localhost:4200).
 
-### Code Generators
-
-Make use of the many generators for code, try `ember help generate` for more details
+### Specs
+* question model to allow posts to the home page with the content, author, and notes
+* answer model for users to create responses to questions with content and author
 
 ### Running Tests
 

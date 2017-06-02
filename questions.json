@@ -1,0 +1,17 @@
+{ "questions": [{
+    "content": "I dunno how to use .split",
+    "author": "bannana.split()",
+    "notes": "I don't know why my .split won't work! can you help me out?"
+    }, {
+    "content": "what is the meaning of life?",
+    "author": "hitchhiker_67687",
+    "notes": "maybe we should build a super computer?"
+    }],
+   "answers": [{
+     "author": "Dolphin",
+     "content": "42"
+   }, {
+     "author": "Smartie",
+     "content": "you're dumb."
+   }]
+ }

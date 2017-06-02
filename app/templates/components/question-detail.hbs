@@ -1,0 +1,10 @@
+
+<div class="panel panel-default">
+  <div class="panel-body">{{question.notes}}</div>
+</div>
+
+<h3>Answers</h3>
+
+{{#each question.answers as |answer|}}
+  {{answer-tile review=review}}
+{{/each}}

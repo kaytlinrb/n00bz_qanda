@@ -1,0 +1,17 @@
+{
+  "name": "n00bz",
+  "description": "Small description for n00bz goes here",
+  "main": "",
+  "authors": [
+    "Kaytlin Borel <kaytlinrb@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

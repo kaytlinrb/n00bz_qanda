@@ -1,0 +1,8 @@
+<h1 class="jumbotron">N00bz Questions</h1>
+
+
+{{#each model.questions as |question|}}
+{{question-tile question=question}}
+{{/each}}
+
+{{new-question saveQuestion="saveQuestion"}}
