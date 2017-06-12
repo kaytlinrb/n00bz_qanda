@@ -5,3 +5,8 @@
 {{update-question question=model update="update"}}
 
 {{new-answer saveAnswer="saveAnswer" question=model}}
+
+
+{{#each model.answers as |answer|}}
+{{answer.content}} --{{answer.author}}
+{{/each}}
